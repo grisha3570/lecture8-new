@@ -1,0 +1,14 @@
+.section {
+  height: 832px;
+  width: 552px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 30px 0px #0000001a;
+  color: #ffffff;
+  border: 2px solid red;
+}
+
+.form-header {
+  display: flex;
+  color: black;
+  justify-content: space-between;
+}
